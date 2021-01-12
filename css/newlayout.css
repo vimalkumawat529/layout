@@ -1,0 +1,397 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Lato', sans-serif;
+}
+
+.header{
+    width:100%;
+    background-color:rgb(197, 185, 185) ;
+    text-align: center;
+    color: #fff;
+}
+
+.header h1{
+    margin-top: 150px;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+#my-navigation{
+    background: none;
+    border: 0;
+}
+
+#my-navigation .navbar-brand {
+    color:#fff;
+    font-size: 22px;
+    letter-spacing: 3px;
+    color:rgb(228, 64, 64);
+}
+
+#mynavbar a{
+    color:rgb(153, 40, 40);
+    font-size: 20px;
+}
+
+
+.header h6{
+    margin-top: 30px;
+    letter-spacing: 3px;
+    padding-bottom: 150px;
+    line-height: 20px;
+}
+
+/*header 2 start */
+
+.header2{
+    width:100%;
+    background-color: rgb(240, 100, 100);
+    text-align: center;
+    color: #fff;
+}
+
+.header2 h2{
+    position: relative;
+    top:-50px;
+    text-align: center;
+    display: inline;
+    background-color:rgb(240, 100, 100);
+    padding:30px 50px;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.header2 h6{
+    margin: 80px 0px 40px 0px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color:rgb(224, 208, 208);
+}
+
+.header2 h1{
+    font-size: 45px;
+    border:2px solid rgb(199, 189, 189);
+    padding:30px 30px;
+    letter-spacing: 3px;
+    line-height: 60px;
+    margin-bottom: 50px;
+}
+
+.header2 p{
+    font-size: 18px;
+    line-height: 35px;
+    letter-spacing: 2px;
+}
+
+.vimal{
+    background-color: black;
+    color:#fff;
+    padding:10px 40px;
+    font-size: 20px;
+    margin:30px 0px 50px 0px;
+    letter-spacing: 2px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 120px;
+}
+
+/*header2 finished */
+
+/* header 3 start */
+
+
+.header3 h2{
+    position: relative;
+    top:-50px;
+    text-align: center;
+    display: inline;
+    background-color: #fff;
+    padding:30px 50px;
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.header3 img{
+    width:100%;
+}
+
+.header3 h3{
+   font-size: 30px;
+   letter-spacing: 4px;
+   padding-top: 50px;
+}
+
+.header3 h4{
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    color: gray;
+}
+
+/*header3 finished*/
+
+/*header4 start*/
+
+.header4{
+    margin-top:50px;
+}
+
+.header4 .fa{
+    border-radius: 100px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    background-color: black;
+    padding:10px;
+    font-size: 20px;
+    color:#fff;
+    margin-right: 15px;
+}
+
+.header4 h3{
+    color:rgb(240, 106, 106);
+}
+
+.header4 p{
+ margin-left:55px;
+ color: gray;
+ font-size: 17px;
+ margin-bottom: 50px;
+}
+
+.vk{
+    padding:15px 20px;
+    background-color:rgb(240, 106, 106); 
+    margin-left:35%;
+}
+
+.vml{
+    padding:15px 20px;
+    margin-left: 5%;
+}
+
+/* header4 finished*/
+
+/*header5 start*/
+
+.header5{
+    width: 100%;
+    background-color: rgb(179, 166, 166);
+    margin-top: 120px;
+    text-align: center;
+}
+
+.header5 h2{
+    position: relative;
+    top:-50px;
+    display: inline;
+    background-color: rgb(179, 166, 166);
+    padding:30px 40px;
+    font-size: 22px;
+}
+
+.header5 .images img{
+    border:10px solid #fff;
+}
+
+.header5 h3{
+    color:rgb(240, 106, 106);
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+.header5 p{
+    color:gray;
+    letter-spacing: 1px;
+    line-height: 25px;
+    margin: 20px 0px 20px 0px;
+}
+
+.header5 .vk{
+    margin: 20px 0px 120px 0px;
+}
+
+/*header5 finished*/
+
+/*header6 start*/
+
+.header6{
+    width:100%;
+    background-color: rgb(71, 67, 67);
+    text-align: center;
+    color:#fff;
+}
+
+.header6 h2{
+position: relative;
+top:-50px;
+display: inline;
+padding:30px 50px;
+background-color: rgb(71, 67, 67);
+font-size: 22px;
+}
+
+.header6 h3{
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin-top: 0;
+}
+
+.header6 p{
+    padding-top:15px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+
+.header6 .left .name{
+    width:100%;
+    padding-right:75px;
+    margin-left: 0;
+    background-color: rgb(179, 166, 166);
+    color:#fff;
+}
+
+.header6 .left .email{
+    width:100%;
+    padding-right:75px;
+    margin-left: 0;
+    background-color: rgb(179, 166, 166);
+    color:#fff;
+}
+
+.header6 #formessage{
+    width:100%;
+    background-color: rgb(179, 166, 166);
+    color:#fff;
+}
+
+.header6 .button{
+    font-size: 20px;
+    padding:8px 40px;
+    background-color: rgb(240, 106, 106);
+    color:#fff;
+}
+
+.header6 .reset{
+    font-size: 20px;
+    padding:8px 40px;
+    background: none;
+    color: #fff;
+    margin-left: 20px;
+}
+
+.header6 .right h4{
+    color:rgb(240, 106, 106);
+    margin-left:0px;
+}
+
+.header6 .right .fa{
+    border-radius: 100%;
+    color:#fff;
+    background-color: black;
+    padding:10px;
+    margin-left:0px;
+    margin-right:30px;
+    font-size: 20px;
+}
+
+.header6 .right .left{
+    margin-left: 50px;
+    line-height: 46px;
+}
+
+.header6 .right .left-bottom a{
+    margin-left: 80px;
+    color:rgb(168, 154, 154);
+}
+
+.header6 .header-bottom p{
+    border:2px solid gray;
+    padding:15px 20px;
+    margin: 50px 0px;
+
+}
+
+@media only screen and (max-width:450px){
+    .header5 .images img{
+        width: 100%;
+    }
+
+    .header5 h2{
+        padding:20px 40px
+        font-size: 20px;
+    }
+
+    .vk{
+    margin-left:4%;
+}
+
+.vml{
+    padding:15px 20px;
+    margin-left: 4%;
+
+}
+
+/*------- media quary start*/
+
+
+@media only screen and (max-width:408px){
+    .header5 h2{
+        font-size:27px
+
+    }
+
+    .header2 h2{
+        font-size:24px;
+        padding:24px 20px;
+    }
+}
+
+@media only screen and (max-width:380px){
+    .header5 h2{
+        font-size:22px;
+        padding-bottom:30px;
+        
+    }
+     .header6 h2{
+        font-size:22px;
+        padding-bottom:30px;
+        
+    }
+
+
+}
+
+@media only screen and (max-width:333px){
+    .header5 h2{
+        font-size:10px;
+        padding-bottom:35px;
+        
+    }
+     .header6 h2{
+        font-size:10px;
+        padding-bottom:35px;
+        
+    }
+
+    .header2 h2{
+        font-size:10px;
+        padding-bottom:35px;
+    }
+
+    .header3 h2{
+        font-size:9px;
+        padding-bottom:35px;
+    }
+
+
+}
+
+/*----media quary end----*/
